@@ -2,12 +2,12 @@
 
 移动端滑动切换  vue-swiper-router
 
-效果演示
 
 
-## Build Setup
 
-``` bash
+
+
+
 # install dependencies  安装依赖
 npm install
 
@@ -16,4 +16,6 @@ npm run dev
 
 
 注意: 展示功能组件  样式效果自己按 需求调整.....
+
+博文 : https://blog.csdn.net/qq_40963664/article/details/80509985
 
